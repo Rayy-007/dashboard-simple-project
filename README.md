@@ -17,6 +17,6 @@ The project was developed with a focus on simplicity and functionality:
 ## Resources:
 Technologies Used: HTML, CSS, JavaScript
 
----
+
 
 Engjoy Website ---> https://dashboard-simple-project.netlify.app/
